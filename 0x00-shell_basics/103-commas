@@ -1,2 +1,2 @@
 #!/bin/bash
- -Rma "\n"
+ -FRma "\n"
