@@ -1,2 +1,2 @@
 #!/bin/bash
- -Rma; echo
+ -Rma "\n"
